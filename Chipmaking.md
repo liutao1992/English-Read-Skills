@@ -177,9 +177,76 @@
 句子15：
 `China’s appetite for chipmaking tools is also causing commercial difficulties for non-Chinese chipmakers, depriving them of equipment and hence the capacity to manufacture chips.`
 
+`appetite`(n): 胃口
+`deprive(of)`: 剥夺
+`deprive of their basic right`: 剥夺他们的基本权利
+`hence`(adv): 因此 therefore 
+
+中国对芯片制造工具的渴求也给非中国的芯片制造商带来了商业难题，这使他们失去了制造芯片的 设备，从而失去了制造芯片的能力。
+
+句子16：
+`Over the past four months/ the American toolmakers have started working with the government, through Akin Gump, a firm of lawyers and lobbyists /based in Washington, dc, to find a way round the problem. `
+
+`lobbyists`(n): 游说者 
+
+`a way round` - a solution to 
+
+`There must be a way round the problem`: 一定有解决这个问题的办法
+
+句子17：  
+`The toolmakers formed the Coalition of Semiconductor Equipment Manufacturers /late last year/ to further that aim, using Akin Gump to represent them.`
+
+`coalition`: 联盟
+
+`late last year`: 去年年末
+
+句子18： 
+`Lawyers have been poring over the products of Applied Materials, Lam Research and KLA in an attempt to identify(找出) workable(切实可行) export controls/ under which less advanced pieces of equipment /that are not used for cutting-edge manufacturing/ might still be sold to China, while more advanced tools would be prohibited. `
+
+`pore over` - examine 仔细研究
+
+`in an attempt to`: 试图
+
+`cutting-edge`: 尖端的
+
+`prohibit`: 禁止
+
+`less advanced pieces of equipment`: 低端的设备
+
+`under which`中的 which == export controls
+
+律师们一直在研究应用材料公司、 Lam Research 公司和 KLA 公司的产品，试图找出可行的出口管制措施，根据这些管制措施，不用 于尖端产品制造的不太先进的设备仍可出售给中国，而更先进的工具将被禁止。
+
+句子19： 
+`That would allow the toolmakers to retain some portion of their Chinese revenues.The proposal hinges on getting America’s allies—in particular Japan and the Netherlands, home to Tokyo Electron and ASML —to impose the same export controls on their toolmakers.`
+
+`retain`: v 保留、保持
+
+`portion`: n（某物的）一部分；
+
+`hinges on`: 取决于...
+
+`proposal`: n. 提议，建议；（计划、建议等的）提出；求婚
+
+`impose`: v. 强制推行，强制实行
+
+`home to`: ......的发源地
 
 
+句子20： 
+`The plan may yet fall apart. China is unlikely to accept it meekly. Hawks in Washington may push for harder（严格的） restrictions. Defining /what equipment can continue to be exported to China\ may prove too difficult. But if it works, Chinese chipmakers would need decades to catch up with the West—and America would have met its goals of suppressing Chinese semiconductor development while causing minimal harm to its own industry.`
 
+`may yet do sth`: 将来可能会发生的事情。这个yet位置可前可后
+
+`fall apart`: 崩溃；土崩瓦解；破碎
+
+`meekly`: adv. 温顺地；逆来顺受地；忠厚地
+
+`decades`:  数十年（decade 的复数）
+
+`restriction`: n. 限制规定，限制法规；（受）限制（状态），（受）约束（状态）；制约因素
+
+`suppress`: v. （尤指用武力）镇压，压制；阻止（进程或活动）；封锁，隐瞒（消息）；抑制（生理过程）；克制（感情或反应），忍住；部分（或完全）消除（电干扰）；（心理分析）自觉抑制（不愉快的想法，记忆）
 
 
 
