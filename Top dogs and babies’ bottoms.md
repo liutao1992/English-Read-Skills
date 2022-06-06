@@ -90,6 +90,9 @@
 
 `in people’s minds`: 在人们心中
 
+`by the day`: 按日；按日计算  `The workers are paid by the day. But things are getting grimmer by the day. (工人们按日计酬, 但情况日渐严峻)`
+
+
 句子8：
 ` In other cases, pricing（定价的方式） is done more sneakily: offering premium products to those who are still able to splash out, or cutting costs for those for whom affordability is the overriding concern. Many of the biggest firms do both.`
 
